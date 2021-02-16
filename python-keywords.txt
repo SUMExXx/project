@@ -5,3 +5,6 @@ in
 print
 input
 put
+continue
+and
+or
