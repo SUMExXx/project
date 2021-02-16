@@ -4,3 +4,4 @@ into
 in
 print
 input
+put
