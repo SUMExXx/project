@@ -8,3 +8,4 @@ put
 continue
 and
 or
+new
