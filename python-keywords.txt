@@ -1,0 +1,6 @@
+break
+insert
+into
+in
+print
+input
